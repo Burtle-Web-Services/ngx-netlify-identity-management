@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "Manage Netlify Identity users in Angular. Should be used with netlify-functions-extensions.",
   "scripts": {
-    "install": "shx cp test.txt ngx-netlify-identity-management-test.txt"
+    "install": "shx cp test.txt $INIT_CWD\\ngx-netlify-identity-management-test.txt"
   },
   "author": "",
   "license": "MIT"
