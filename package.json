@@ -1,6 +1,6 @@
 {
   "name": "ngx-netlify-identity-management",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Manage Netlify Identity users in Angular. Should be used with netlify-functions-extensions.",
   "scripts": {
     "install": "shx cp test.txt ngx-netlify-identity-management-test.txt"
